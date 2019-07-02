@@ -1,4 +1,3 @@
-# rakuzan-1.0
-rakuzan selfbot est un selfbot fun et raid 
+# rakuzan-1.1
 Rejoignez le serveur:  https://discord.gg/uAJF9Nn
-Evitez de faire la commande /suicide en public
+
